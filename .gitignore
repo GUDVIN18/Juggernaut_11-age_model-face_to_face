@@ -1,0 +1,10 @@
+# Игнорировать файлы формата .onnx, .zip, .pth, .mp4, .jpg
+*.onnx
+*.zip
+*.pth
+*.mp4
+*.jpg
+venv/
+inswapper/
+CodeFormer/
+checkpoints/
